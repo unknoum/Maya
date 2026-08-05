@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "DreamGuy",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "DreamLockSMP.aternos.me",
+    "port": 41529,
     "version": "1.21.1"
   },
   "position": {
@@ -28,10 +28,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 1000,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
+        "MADE ME HAPPY",
         "I like to play Minecraft!"
       ]
     },
